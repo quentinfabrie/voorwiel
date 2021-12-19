@@ -23,24 +23,24 @@
       },
       "login": {
         "login-with": "Inloggen met",
-        "configerror": "Laden der Login-Konfiguration fehlgeschlagen"
+        "configerror": "Login configuratie werkt niet"
       },
       "about": {
-        "title": "Über",
-        "html": "Bikesharing, basierend auf einem <a href='https://github.com/transportkollektiv/openbike'>open source</a> Stack.<br/><a href='https://ulm.dev/projects/openbike/'>Mehr über das Projekt erfahren</a>."
+        "title": "over",
+        "html": "Wij zijn een groep jongeren die voor een school project dit gemaakt hebben"
       },
       "apperror": {
-        "close": "Schließen"
+        "close": "Sluiten"
       },
       "gbfsview": {
-        "error": "Laden der Radpositionen fehlgeschlagen"
+        "error": "Oeps! Ik kan de locatie van de fiets niet vinden"
       },
       "support": {
-        "title": "Problem oder Verbesserung melden"
+        "title": "Meld een probleem of verbetering"
       },
       "detail": {
-        "no-range": "keine Reichweite",
-        "range": "{value} {unit} Reichweite"
+        "no-range": "Geen bereik",
+        "range": "bereik: {value} {unit}"
       }
     }
   },
@@ -88,5 +88,5 @@
         "range": "Range: {value} {unit}"
       }
     }
-  },
+  }
 }
