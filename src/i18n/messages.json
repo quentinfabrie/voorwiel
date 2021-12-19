@@ -1,4 +1,49 @@
 {
+    "de": {
+    "message": {
+      "app": {
+        "login": "Inloggen",
+        "logout": "Uitloggen",
+        "unvalidated-message": "Je kunt nu geen fiets huren omdat je niet bent geverifieerd. Neem contact op en beginnen met rijden. "
+      },
+      "rent": {
+        "unlockcode": "Vergrendel code",
+        "unlock": "openen",
+        "bikenumber": "Fietsnummer",
+        "finish-rent": "Stop met gebruiken",
+        "rent": "gebruiken",
+        "renting-for": "huren voor"
+      },
+      "rentbutton": {
+        "rent-bike": "Fietsgebruiken",
+        "rent-or-return-bike": "Fiets gebruiken of terug brengen"
+      },
+      "lock": {
+        "not-supported": "Slot kan nu niet geopend worden"
+      },
+      "login": {
+        "login-with": "Einloggen mit",
+        "configerror": "Laden der Login-Konfiguration fehlgeschlagen"
+      },
+      "about": {
+        "title": "Über",
+        "html": "Bikesharing, basierend auf einem <a href='https://github.com/transportkollektiv/openbike'>open source</a> Stack.<br/><a href='https://ulm.dev/projects/openbike/'>Mehr über das Projekt erfahren</a>."
+      },
+      "apperror": {
+        "close": "Schließen"
+      },
+      "gbfsview": {
+        "error": "Laden der Radpositionen fehlgeschlagen"
+      },
+      "support": {
+        "title": "Problem oder Verbesserung melden"
+      },
+      "detail": {
+        "no-range": "keine Reichweite",
+        "range": "{value} {unit} Reichweite"
+      }
+    }
+  },
   "en": {
     "message": {
       "app": {
@@ -44,49 +89,4 @@
       }
     }
   },
-  "de": {
-    "message": {
-      "app": {
-        "login": "Einloggen",
-        "logout": "Ausloggen",
-        "unvalidated-message": "Sie können noch keine Fahrräder ausleihen, da ihr Account noch nicht freigeschalten wurde. Bitte kontaktieren Sie uns, um sich freischalten zu lassen."
-      },
-      "rent": {
-        "unlockcode": "Entsperrcode",
-        "unlock": "Entsperren",
-        "bikenumber": "Radnummer",
-        "finish-rent": "Leihe beenden",
-        "rent": "Ausleihen",
-        "renting-for": "Ausleihe läuft"
-      },
-      "rentbutton": {
-        "rent-bike": "Rad ausleihen",
-        "rent-or-return-bike": "Ausleihen oder Zurückgeben"
-      },
-      "lock": {
-        "not-supported": "Schlosstyp wird noch nicht unterstützt"
-      },
-      "login": {
-        "login-with": "Einloggen mit",
-        "configerror": "Laden der Login-Konfiguration fehlgeschlagen"
-      },
-      "about": {
-        "title": "Über",
-        "html": "Bikesharing, basierend auf einem <a href='https://github.com/transportkollektiv/openbike'>open source</a> Stack.<br/><a href='https://ulm.dev/projects/openbike/'>Mehr über das Projekt erfahren</a>."
-      },
-      "apperror": {
-        "close": "Schließen"
-      },
-      "gbfsview": {
-        "error": "Laden der Radpositionen fehlgeschlagen"
-      },
-      "support": {
-        "title": "Problem oder Verbesserung melden"
-      },
-      "detail": {
-        "no-range": "keine Reichweite",
-        "range": "{value} {unit} Reichweite"
-      }
-    }
-  }
 }
