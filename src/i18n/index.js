@@ -14,7 +14,7 @@ if (config.I18N_MESSAGE_OVERRIDE) {
 const i18n = new VueI18n({
   locale: 'de', // TODO: get browser locale
   messages,
-  fallbackLocale: 'nl',
+  fallbackLocale: 'en',
 });
 
 export default i18n;
