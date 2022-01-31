@@ -20,17 +20,17 @@ var I18N_MESSAGE_OVERRIDE = {
   "de": {
     "message": {
       "app": {
-        "unvalidated-message": "Sie können noch keine Fahrräder ausleihen, da ihr Account noch nicht freigeschalten wurde. Bitte <a href='mailto:openbike@ulm.dev'>senden Sie uns</a> Ihren rechts oben angezeigten Nutzernamen, um sich freischalten zu lassen."
+        "unvalidated-message": "U kunt nog geen fietsen huren omdat uw account nog niet is geactiveerd. <a href='mailto:openbike@smartrent.tech'>stuur ons</a> uw gebruikersnaam die in de rechterbovenhoek wordt weergegeven om te worden geactiveerd."
       },
       "about": {
-        "html": "Ein experimentelles <a href='https://github.com/transportkollektiv/openbike'>open source</a> Bikesharing im Test mit Beschäftigten der Stadt Ulm.<br /><b>Mitmachen?</b> Melde dich &rarr; <a href='mailto:openbike@ulm.dev'>openbike@ulm.dev</a>"
+        "html": "Een experimentele <a href='https://github.com/transportkollektiv/openbike'>open source</a> deelfietstest met medewerkers van de zorg<br /><b>Deelnemen?</b > Neem contact op → <a href='mailto:openbike@smartrent.tech'>openbike@smartrent.tech</a>"
       }
     }
   }
 };
 
 var SUPPORT_TYPE = 'zammad';
-var SUPPORT_URL = 'https://support.ulm.dev';
+var SUPPORT_URL = 'https://support.smartrent.tech';
 
 var SENTRY_DSN = '';
 

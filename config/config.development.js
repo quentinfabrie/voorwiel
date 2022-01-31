@@ -1,7 +1,7 @@
 var ENV = 'development';
 
-var TITLE = "dev.bike - experimental bikesharing with an open source stack";
-var NAME = "dev.bike";
+var TITLE = "Smartrent - Een fietsen verhuur systeem voor de zorg";
+var NAME = "smartrent.tech";
 var SYSTEM_URL = "http://localhost:8000";
 var API_ROOT = SYSTEM_URL + "/api";
 var GBFS_URL = SYSTEM_URL + "/gbfs/gbfs.json";
